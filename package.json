@@ -1,0 +1,24 @@
+{
+    "author": "lora.rowan9292@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "test-1",
+    "pebble": {
+        "capabilities": [
+            ""
+        ],
+        "displayName": "TEST 1",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "uuid": "1eb49f95-f181-452e-85d3-94efb65aa1a6",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
